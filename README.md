@@ -15,21 +15,17 @@ The Number Guesser Game is a simple web-based game where the player has to guess
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser. or simply click this link to access the application on github pages
+1. Open the `index.html` file in a web browser. Or simply click this [link] (https://harrisondevop.github.io/Number-Guesser/) to access the application on github pages
 2. Enter your guess in the input field.
 3. Click the "Submit Guess" button.
 4. Receive feedback on whether your guess is too high, too low, or correct.
 5. Continue guessing until you win or run out of attempts.
 
-## Running Tests
-
-Tests are written using Jasmine. To run the tests, open the `SpecRunner.html` file in a web browser.
-
 ## Code Structure
 
 - `index.html`: Contains the HTML structure of the game.
-- `styles.css`: Contains the CSS for styling the game.
-- `script.js`: Contains the JavaScript logic for the game.
+- `css/styles.css`: Contains the CSS for styling the game.
+- `js/script.js`: Contains the JavaScript logic for the game.
 - `README.md`: This file, providing an overview and instructions.
 
 ## Best Practices
