@@ -15,7 +15,7 @@ The Number Guesser Game is a simple web-based game where the player has to guess
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser. Or simply click this [link] (https://harrisondevop.github.io/Number-Guesser/) to access the application on github pages
+1. Open the `index.html` file in a web browser. Or simply click this [link](https://harrisondevop.github.io/Number-Guesser/) to access the application on github pages
 2. Enter your guess in the input field.
 3. Click the "Submit Guess" button.
 4. Receive feedback on whether your guess is too high, too low, or correct.
